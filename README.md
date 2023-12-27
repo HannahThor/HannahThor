@@ -1,6 +1,7 @@
 # Hey 
 
 ![hdt desk image Medium](https://github.com/HannahThor/HannahThor/assets/74144109/94c53d1d-b7a3-4c83-8d13-17d767e221bd)
+![hdt desk image Medium Small](https://github.com/HannahThor/HannahThor/assets/74144109/e1a959c3-ddd6-493a-9bae-fbf42310adaa)
 
 - :woman_technologist: I'm currently working on my final project with the School Of Code
 - :potted_plant: I'm currently learning Next.js, Tailwind and TypeScript
