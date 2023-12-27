@@ -9,7 +9,6 @@
 - :thread: I find joy in customising my children's clothes through the art of embroidery. I have a passion for singing, if there's a harmony there I will sing it.
 
 
-2 / 2
 
 
 
