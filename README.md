@@ -1,6 +1,6 @@
 # Hey 
 
-![WhatsApp Image 2023-11-27 at 09 39 05](https://github.com/HannahThor/HannahThorley/assets/74144109/b9aa27ad-176b-4412-8759-3fa3a183fac7)
+![hdt desk image Medium](https://github.com/HannahThor/HannahThor/assets/74144109/94c53d1d-b7a3-4c83-8d13-17d767e221bd)
 
 - :woman_technologist: I'm currently working on my final project with the School Of Code
 - :potted_plant: I'm currently learning Next.js, Tailwind and TypeScript
